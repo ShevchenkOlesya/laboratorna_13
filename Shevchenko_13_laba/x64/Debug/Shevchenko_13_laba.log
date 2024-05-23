@@ -1,0 +1,7 @@
+﻿  Shevchenko_13_laba.cpp
+C:\Users\user\source\repos\Shevchenko_13_laba\Shevchenko_13_laba\Shevchenko_13_laba.cpp(41,29): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\user\source\repos\Shevchenko_13_laba\Shevchenko_13_laba\Shevchenko_13_laba.cpp(41,29): warning C4244:         with
+C:\Users\user\source\repos\Shevchenko_13_laba\Shevchenko_13_laba\Shevchenko_13_laba.cpp(41,29): warning C4244:         [
+C:\Users\user\source\repos\Shevchenko_13_laba\Shevchenko_13_laba\Shevchenko_13_laba.cpp(41,29): warning C4244:             _Ty=int
+C:\Users\user\source\repos\Shevchenko_13_laba\Shevchenko_13_laba\Shevchenko_13_laba.cpp(41,29): warning C4244:         ]
+  Shevchenko_13_laba.vcxproj -> C:\Users\user\source\repos\Shevchenko_13_laba\x64\Debug\Shevchenko_13_laba.exe
